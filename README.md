@@ -1,1 +1,1 @@
-# simple-seq2seq-keras-google-colab-python3
+# Simple sequence-to-sequence model with Google Colab, Keras, Python 3
